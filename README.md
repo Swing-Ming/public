@@ -2,7 +2,7 @@
 
 ```java
 	public static void main(String arg[]){
-	System.out.println("学习github");
+	System.out.println("new pull request测试");
 		
 	}
 ```
